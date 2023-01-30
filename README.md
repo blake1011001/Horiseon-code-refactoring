@@ -13,4 +13,14 @@ Refactoring code for the Horiseon website without changing the current layout of
 * Descriptive title was added.
 
 ### Links
+[Link to repository] https://github.com/blake1011001/Horiseon-code-refactoring
+[Link to website] https://blake1011001.github.io/Horiseon-code-refactoring/
 
+## Installation
+
+Upload the index.html and assets folder to the webserver.
+
+## Usage 
+
+Can be used on any desktop web browser. 
+![screenshot of index.html] 
