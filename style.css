@@ -1,12 +1,9 @@
-/* Applies styling to all elements on the page */
 
 * {
 	box-sizing: border-box;
 	padding: 0;
 	margin: 0;
   }
-  
-  /* Element Styling */
   
   a {
 	color: #ffffff;
@@ -54,8 +51,6 @@
   p {
 	font-size: 16px;
   }
-  
-  /* Class styling */
   
   .benefit {
 	margin-bottom: 32px;
@@ -115,7 +110,7 @@
 	background-position: center;
   }
   
-  .service {
+  .resource {
 	margin-bottom: 20px;
 	padding: 50px;
 	height: 300px;
@@ -123,16 +118,16 @@
 	background-color: #0072bb;
 	color: #ffffff;
   }
-  .service img {
+  .resource img {
 	max-height: 200px;
   }
   
-  .service h2 {
+  .resource h2 {
 	margin-bottom: 20px;
 	font-size: 36px;
   }
   
-  .services {
+  .resources {
 	width: 75%;
 	display: inline-block;
 	margin-left: 20px;
