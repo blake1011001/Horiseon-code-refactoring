@@ -13,8 +13,8 @@ Refactoring code for the Horiseon website without changing the current layout of
 * Descriptive title was added.
 
 ### Links
- https://github.com/blake1011001/Horiseon-code-refactoring
- https://blake1011001.github.io/Horiseon-code-refactoring/
+* https://github.com/blake1011001/Horiseon-code-refactoring
+* https://blake1011001.github.io/Horiseon-code-refactoring/
 
 ## Installation
 
@@ -30,8 +30,8 @@ screenshot hori.png
 I was the sole developer on this project.
 
 ### Referrences 
-https://www.youtube.com/watch?v=eDmY17-GuLo&t=650s
-https://www.w3schools.com/tags/ref_byfunc.asp
+* https://www.youtube.com/watch?v=eDmY17-GuLo&t=650s
+* https://www.w3schools.com/tags/ref_byfunc.asp
 
 ## License 
 
