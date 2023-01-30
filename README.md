@@ -23,3 +23,16 @@ Upload the index.html and assets folder to the webserver.
 ## Usage 
 
 Can be used on any desktop web browser. 
+screenshot hori.png
+
+## Credits
+
+I was the sole developer on this project.
+
+### Referrences 
+https://www.youtube.com/watch?v=eDmY17-GuLo&t=650s
+https://www.w3schools.com/tags/ref_byfunc.asp
+
+## License 
+
+MIT License
