@@ -23,7 +23,7 @@ Upload the index.html and assets folder to the webserver.
 ## Usage 
 
 Can be used on any desktop web browser. 
-screenshot hori.png
+![screenshot hori](https://user-images.githubusercontent.com/121069049/215399505-6d40ef9d-c3a8-4585-8cf1-21ffaa039454.png)
 
 ## Credits
 
